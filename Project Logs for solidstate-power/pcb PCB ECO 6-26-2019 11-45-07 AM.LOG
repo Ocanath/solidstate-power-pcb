@@ -1,0 +1,4 @@
+Added Component: Designator=J1(SINGLE-PAD)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=EN_HP Pin=J1-1
+Added Member To Class: ClassName=sch Member=Component J1 SINGLE-PAD
