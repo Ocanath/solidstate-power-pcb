@@ -1,0 +1,17 @@
+Added Component: Designator=C14(C1210)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "http://www1.futureelectronics.com/doc/SAMSUNG/CL05F104ZO5NNNC.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www1.futureelectronics.com/doc/SAMSUNG/CL05F104ZO5NNNC.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "https://www.verical.com/server-webapp/html/getDatasheet?partID=358403"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.verical.com/server-webapp/html/getDatasheet?partID=358403"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "https://produktinfo.conrad.com/datenblaetter/450000-474999/458504-da-01-en-VS_KONDENSATOR_0402.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "https://produktinfo.conrad.com/datenblaetter/450000-474999/458504-da-01-en-VS_KONDENSATOR_0402.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4Description"; Value = "http://www.samsungsem.com/kr/support/product-search/mlcc/CL10A475MQ8NNNC.jsp?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4URL"; Value = "http://www.samsungsem.com/kr/support/product-search/mlcc/CL10A475MQ8NNNC.jsp?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5Description"; Value = "https://www.verical.com/server-webapp/html/getDatasheet?partID=358407&src-supplier=Verical"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5URL"; Value = "https://www.verical.com/server-webapp/html/getDatasheet?partID=358407&src-supplier=Verical"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink6Description"; Value = "http://www1.futureelectronics.com/doc/SAMSUNG%20PASSIVE/CL05B104KQ5NNNC.pdf?src-supplier=Future+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink6URL"; Value = "http://www1.futureelectronics.com/doc/SAMSUNG%20PASSIVE/CL05B104KQ5NNNC.pdf?src-supplier=Future+Electronics"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C14-1
+Added Pin To Net: NetName=V_BATT_HP Pin=C14-2
+Added Member To Class: ClassName=sch Member=Component C14 22uF
