@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : C:\Users\Ocanath\Google Drive\Projects\PCB\Altium\Projects\solidstate-power-pcb-hp\pcb.PcbDoc
 Date     : 7/6/2019
-Time     : 12:38:24 PM
+Time     : 3:24:15 PM
 
 Processing Rule : Clearance Constraint (Gap=6mil) (All),(All)
 Rule Violations :0
@@ -45,4 +45,4 @@ Rule Violations :0
 
 Violations Detected : 0
 Waived Violations : 0
-Time Elapsed        : 00:00:00
+Time Elapsed        : 00:00:01
