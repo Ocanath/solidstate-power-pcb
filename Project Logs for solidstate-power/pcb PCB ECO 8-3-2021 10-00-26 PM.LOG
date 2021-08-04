@@ -1,0 +1,31 @@
+Added Component: Designator=Q1(VSON-8-NFET)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "http://aosmd.com/res/data_sheets/AON7400B.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://aosmd.com/res/data_sheets/AON7400B.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Continuous Drain Current (ID)"; Value = "40A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Description 1"; Value = "MOSFET N-CH 30V 30A 8DFN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Drain to Source Voltage (Vdss)"; Value = "30V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Input Capacitance"; Value = "1.44nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Alpha & Omega Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "AON7400B"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "150°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Power Dissipation"; Value = "4.1W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "5000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing"; Value = "1=0.53, 10=0.415, 100=0.2848, 500=0.19528, 1000=0.14647, 2500=0.13426 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rds On Max"; Value = "7.5mR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock"; Value = "5413"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "785-1677-6-ND"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetQ5_D Pin=Q1-D
+Added Pin To Net: NetName=NetQ5_D Pin=Q1-D
+Added Pin To Net: NetName=NetQ5_D Pin=Q1-D
+Added Pin To Net: NetName=NetQ5_D Pin=Q1-D
+Added Pin To Net: NetName=NetQ5_D Pin=Q1-D
+Added Pin To Net: NetName=EN_HP Pin=Q1-G
+Added Pin To Net: NetName=GND Pin=Q1-S
+Added Pin To Net: NetName=GND Pin=Q1-S
+Added Pin To Net: NetName=GND Pin=Q1-S
+Change Net Name : Old Net Name=NetQ5_D New Net Name=NetQ1_D
+Added Member To Class: ClassName=sch Member=Component Q1 HP-MOS
